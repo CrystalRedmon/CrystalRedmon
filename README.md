@@ -19,3 +19,4 @@
 ![icons8-material-ui-48](https://user-images.githubusercontent.com/104024231/209701245-e76b9981-42ad-405f-90ed-d57fb30bf9c4.png)
 ![icons8-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-48](https://user-images.githubusercontent.com/104024231/209701308-e889a27e-3850-4c70-b2cf-6a8fcc3ab915.png)
 ![icons8-css3-48](https://user-images.githubusercontent.com/104024231/209701344-1a239604-c4eb-4998-b4d7-5fad9372bc18.png)
+![icons8-visual-studio-48](https://user-images.githubusercontent.com/104024231/209701459-50886a81-6138-41d7-871c-8465129fa1f0.png)
