@@ -11,5 +11,5 @@
 
 
 ![image](https://user-images.githubusercontent.com/104024231/209694337-4f14521c-cc2b-47d7-8b17-e34b3b223f02.png)
-![image](https://img.icons8.com/fluency/512/javascript.png)
 
+![icons8-javascript-48 (1)](https://user-images.githubusercontent.com/104024231/209696580-1acddec6-e213-4921-b5a6-123a3497fe62.png)
