@@ -1,4 +1,4 @@
-### Oh, hey! You found me. 👋🏽
+### Oh hey, you found me! 👋🏽
 
 
 
