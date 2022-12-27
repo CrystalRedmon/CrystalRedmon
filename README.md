@@ -10,6 +10,7 @@
 - ⚡ Fun fact: I visit pet adoption websites almost daily. I want a fur baby 🐶🐕🐾💩❣️
 
 My toys: 
+
 ![icons8-javascript-48 (1)](https://user-images.githubusercontent.com/104024231/209696580-1acddec6-e213-4921-b5a6-123a3497fe62.png)
 ![icons8-react-native-48](https://user-images.githubusercontent.com/104024231/209697024-4fc347c1-2249-499e-8b02-6e41386b8055.png)
 ![icons8-redux-48](https://user-images.githubusercontent.com/104024231/209698557-8fca7a33-4834-4576-b91b-9721903e3855.png)
