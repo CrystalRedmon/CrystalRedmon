@@ -11,4 +11,4 @@
 
 
 ![image](https://user-images.githubusercontent.com/104024231/209694337-4f14521c-cc2b-47d7-8b17-e34b3b223f02.png)
-react.eps
+react-original-wordmark.svg
